@@ -1,4 +1,4 @@
-# ✨ NORA — Luxury Cosmetics & Skincare E-Commerce
+# ✨ NORA — Luxury
 
 > **A high-end, editorial beauty e-commerce web application featuring a modern RTL layout, seamless shopping experience, live countdown timers, shade selectors, and responsive craftsmanship.**
 
