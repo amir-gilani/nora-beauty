@@ -1,12 +1,20 @@
+<div align="center">
+
 # ✨ NORA — Luxury
 
-> **A high-end, editorial beauty e-commerce web application featuring a modern RTL layout, seamless shopping experience, live countdown timers, shade selectors, and responsive craftsmanship.**
+<p>
+  A high-end, editorial beauty e-commerce web application featuring a modern RTL layout, seamless shopping experience, live countdown timers, shade selectors, and responsive craftsmanship.
+</p>
 
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+<p>
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" />
+</p>
+
+</div>
 
 ---
 
