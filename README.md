@@ -1,6 +1,6 @@
 # ✨ NORA — Luxury
 
-> **A premium, high-end beauty e-commerce web application featuring a modern editorial design, seamless shopping experience, elegant RTL layout, live countdown timers, interactive shade selectors, and fully responsive craftsmanship.**
+> **A high-end, editorial beauty e-commerce web application featuring a modern RTL layout, seamless shopping experience, live countdown timers, shade selectors, and responsive craftsmanship.**
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
