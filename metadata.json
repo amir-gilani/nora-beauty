@@ -1,0 +1,6 @@
+{
+  "name": "LUMI BEAUTY — فروشگاه آنلاین لوازم آرایشی و مراقبت از پوست",
+  "description": "فروشگاه لوکس محصولات آرایشی، مراقبت از پوست و عطر لومی بیوتی با طراحی مدرن و مینیمال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
